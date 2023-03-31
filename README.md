@@ -1,6 +1,6 @@
-## 제주도 도로 교통량 예측 AI 경진대회
+## 따릉이 대여량 예측 AI 경진대회
 
-대회 URL: https://dacon.io/competitions/official/235985/overview/description
+대회 URL: https://dacon.io/competitions/open/235915/overview/description
 
 주최/주관 : 단국대학교, 용인시 / 데이콘
 
